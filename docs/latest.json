@@ -1,0 +1,9 @@
+{
+  "version": "2.0.3",
+  "repo": "ommuse/Ommuse-releases",
+  "macArm64Dmg": "https://github.com/ommuse/Ommuse-releases/releases/latest/download/OmmuseUploader-mac-arm64.dmg",
+  "macArm64Zip": "https://github.com/ommuse/Ommuse-releases/releases/latest/download/OmmuseUploader-mac-arm64.zip",
+  "macX64Dmg": "https://github.com/ommuse/Ommuse-releases/releases/latest/download/OmmuseUploader-mac-x64.dmg",
+  "macX64Zip": "https://github.com/ommuse/Ommuse-releases/releases/latest/download/OmmuseUploader-mac-x64.zip",
+  "releaseNotesUrl": "https://github.com/ommuse/Ommuse-releases/releases/latest"
+}
